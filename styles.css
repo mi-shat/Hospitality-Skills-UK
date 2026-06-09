@@ -121,7 +121,7 @@ nav a,
 }
 
 .hero-media {
-  background-image: url("./assets/restaurant-training-hero.png");
+  background-image: url("./restaurant-training-hero.png");
   background-size: cover;
   background-position: center;
   transform: scale(1.02);
